@@ -4,6 +4,8 @@ Entre os dias 05 e 11 de agosto de 2019 rolou a 8° Semana Omnistack, o evento o
 
 E para falar dessas tecnologias, ao longo da semana foram disponibilizadas aulas com muito conteúdo, visando construir uma aplicação funcional e multiplataforma de algo semelhante ao Tinder só que para programadores encontrarem seus próximos colaboradores, daí o nome “TinDev”.
 
+<img src="https://github.com/git-jr/Tindev-semana-omnistack-8/blob/master/screenshots/itsamatch.png" alt="Screenshot it's a match"> 
+
 Para mim foi uma semana de muito aprendizado e também de relembrar alguns conceitos, por isso várias partes do código ainda estão comentadas, mesmo que isso fira um pouco os princípios do Clean Code comentar o código que escrevo sempre me ajudou a aprender melhor😜
 
 # O back-end 
